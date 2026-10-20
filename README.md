@@ -1,1 +1,1 @@
-# python-basico
+#🐍 Python básico desde cero
