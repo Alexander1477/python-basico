@@ -26,27 +26,27 @@ https://www.python.org/downloads/
 
 ## 📚 Temario
 
-A lo largo de este repositorio aprenderemos los siguientes temas:
+### A lo largo de este repositorio aprenderemos los siguientes temas:
 
-Variables y tipos de datos.
+#### Variables y tipos de datos.
 
-Operadores aritméticos.
+#### Operadores aritméticos.
 
-Entrada y salida de datos.
+#### Entrada y salida de datos.
 
-Condicionales.
+#### Condicionales.
 
-Ciclos o bucles.
+#### Ciclos o bucles.
 
-Listas y colecciones.
+#### Listas y colecciones.
 
-Cadenas de texto.
+#### Cadenas de texto.
 
-Funciones.
+#### Funciones.
 
-Manejo básico de errores.
+#### Manejo básico de errores.
 
-Proyectos prácticos.
+#### Proyectos prácticos.
 
 Cada tema incluirá ejercicios diseñados para poner en práctica los conocimientos adquiridos.
 
@@ -56,7 +56,7 @@ Los ejercicios están organizados por tema y dificultad. Te recomiendo resolverl
 
 Importante: intenta resolver cada ejercicio por tu cuenta antes de consultar una solución. Equivocarse forma parte del aprendizaje; comprender por qué te equivocaste es lo que te permite mejorar.
 
-### 1. Variables y tipos de datos
+## 1. Variables y tipos de datos
 
 Aprenderemos a almacenar información, asignar valores a variables y trabajar con diferentes tipos de datos.
 
@@ -90,7 +90,7 @@ El programa debe solicitar la base y la altura de un rectángulo, calcular su á
 
 Objetivo: aplicar variables y operaciones aritméticas para resolver un problema práctico.
 
-### 2. Operadores aritméticos
+## 2. Operadores aritméticos
 
 Aprenderemos a realizar operaciones matemáticas utilizando los operadores de Python.
 
@@ -118,7 +118,7 @@ El programa debe solicitar tres calificaciones, calcular su promedio e imprimir 
 
 Objetivo: combinar varias operaciones aritméticas para resolver un problema.
 
-### 3. Entrada y salida de datos
+## 3. Entrada y salida de datos
 
 Aprenderemos a interactuar con el usuario mediante mensajes, entradas de información y resultados.
 
@@ -140,7 +140,7 @@ El programa debe solicitar una temperatura en grados Celsius y convertirla a Fah
 
 Objetivo: aplicar una fórmula matemática a los datos introducidos por el usuario.
 
-### 4. Condicionales
+## 4. Condicionales
 
 Aprenderemos a tomar decisiones dentro de un programa mediante las estructuras if, elif y else.
 
@@ -176,7 +176,7 @@ El programa debe mostrar el resultado correspondiente y evitar realizar una divi
 
 Objetivo: combinar entradas de datos, operadores aritméticos y condicionales para construir un programa más completo.
 
-### 5. Ciclos o bucles
+## 5. Ciclos o bucles
 
 Aprenderemos a repetir instrucciones utilizando for y while.
 
@@ -204,7 +204,7 @@ El programa debe establecer un número secreto y permitir que el usuario intente
 
 Objetivo: combinar ciclos, condiciones y entradas de datos.
 
-### 6. Listas y colecciones
+## 6. Listas y colecciones
 
 Aprenderemos a almacenar varios elementos en una misma estructura y a trabajar con ellos.
 
@@ -232,7 +232,7 @@ El programa debe permitir almacenar varias tareas y mostrarlas en pantalla.
 
 Objetivo: practicar la administración básica de listas.
 
-### 7. Cadenas de texto
+## 7. Cadenas de texto
 
 Aprenderemos a trabajar con texto y a utilizar operaciones propias de las cadenas de caracteres.
 
@@ -254,7 +254,7 @@ El programa debe solicitar una palabra e imprimir sus caracteres en orden invers
 
 Objetivo: practicar el manejo de cadenas de texto.
 
-### 8. Funciones
+## 8. Funciones
 
 Aprenderemos a organizar el código en bloques reutilizables mediante funciones.
 
@@ -276,7 +276,7 @@ Crear una función que reciba la base y la altura de un rectángulo y devuelva s
 
 Objetivo: utilizar funciones para resolver problemas matemáticos.
 
-### 9. Manejo básico de errores
+## 9. Manejo básico de errores
 
 Aprenderemos a anticipar algunos errores y a evitar que ciertas entradas inválidas interrumpan el funcionamiento del programa.
 
@@ -292,7 +292,7 @@ Crear un programa que solicite un número y gestione el caso en el que el usuari
 
 Objetivo: utilizar try y except para manejar excepciones.
 
-### 10. Proyectos prácticos
+## 10. Proyectos prácticos
 
 Aplicaremos los conocimientos adquiridos para construir programas que combinen varios conceptos.
 
@@ -326,10 +326,6 @@ Si encuentras un error, intenta identificar su causa antes de buscar una soluci�
 
 Practica con regularidad y avanza a tu propio ritmo.
 
-## 📺 Tutoriales en video
-
-Los tutoriales en video se irán incorporando progresivamente para complementar los ejercicios de este repositorio.
-
 ## 🎥 Canal de YouTube: 
 https://www.youtube.com/@Alexander.1477
 
@@ -345,4 +341,4 @@ Si utilizas este material en tus propios proyectos o recursos educativos, se agr
 
 La programación se aprende practicando. Empieza con lo básico, desarrolla tu lógica y construye tus propios proyectos.
 
-## No esperes el futuro. Créalo. 🚀
+## No esperes el futuro. Créalo.
